@@ -1,0 +1,10 @@
+C:\Users\TheThyke\Downloads\KOUpgradeEditor-master\KOUpgradeEditor-master\KOUpgradeEditor\bin\Debug\KOUpgradeEditor.exe.config
+C:\Users\TheThyke\Downloads\KOUpgradeEditor-master\KOUpgradeEditor-master\KOUpgradeEditor\bin\Debug\KOUpgradeEditor.exe
+C:\Users\TheThyke\Downloads\KOUpgradeEditor-master\KOUpgradeEditor-master\KOUpgradeEditor\bin\Debug\KOUpgradeEditor.pdb
+C:\Users\TheThyke\Downloads\KOUpgradeEditor-master\KOUpgradeEditor-master\KOUpgradeEditor\obj\x86\Debug\KOUpgradeEditor.csprojResolveAssemblyReference.cache
+C:\Users\TheThyke\Downloads\KOUpgradeEditor-master\KOUpgradeEditor-master\KOUpgradeEditor\obj\x86\Debug\KOUpgradeEditor.frmMain.resources
+C:\Users\TheThyke\Downloads\KOUpgradeEditor-master\KOUpgradeEditor-master\KOUpgradeEditor\obj\x86\Debug\KOUpgradeEditor.Properties.Resources.resources
+C:\Users\TheThyke\Downloads\KOUpgradeEditor-master\KOUpgradeEditor-master\KOUpgradeEditor\obj\x86\Debug\KOUpgradeEditor.csproj.GenerateResource.Cache
+C:\Users\TheThyke\Downloads\KOUpgradeEditor-master\KOUpgradeEditor-master\KOUpgradeEditor\obj\x86\Debug\KOUpgradeEditor.csproj.CoreCompileInputs.cache
+C:\Users\TheThyke\Downloads\KOUpgradeEditor-master\KOUpgradeEditor-master\KOUpgradeEditor\obj\x86\Debug\KOUpgradeEditor.exe
+C:\Users\TheThyke\Downloads\KOUpgradeEditor-master\KOUpgradeEditor-master\KOUpgradeEditor\obj\x86\Debug\KOUpgradeEditor.pdb
